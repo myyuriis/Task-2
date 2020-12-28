@@ -1,4 +1,4 @@
-# Talent Factory (Backend) - Task 2
+# Talent Factory Competition (Backend) - Task 2
 > Buat algoritma bebas dengan menggunakan JavaScript
 
 ## Muhammad Yusril Yuriis
